@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+	<!--ROM Name-->
+		<RomName>CM13</RomName>
+
+	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
+		<VersionName>2016102800</VersionName>
+	
+	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
+		<VersionNumber type="integer">2016102800</VersionNumber>
+
+	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
+		<DirectUrl>https://qc3.androidfilehost.com/dl/HA8IMHlA6MNSJcT3k4o5eQ/1477905888/529152257862671358/cm-13.0-20161028-UNOFFICIAL-z2_plus.zip</DirectUrl>
+
+	<!--Do not edit this!
+		<HttpUrl>BlissRoms Server</HttpUrl>
+	-->
+	<!--BlissPop Android Version-->
+		<Android>6.0.1</Android>
+
+	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
+	<!-- You can disable MD5 checking like this: <CheckMD5 nil="true" />-->
+		<CheckMD5>c9cbd4921d2ee1ee21d84e163cb3a300</CheckMD5>
+
+	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
+	<!--Please enter this in BYTES only. Otherwise an incorrect value will be shown-->
+		<FileSize type="integer">276917758</FileSize>
+ 
+        <!--Maintainer Name/Last Uploader's Name-->
+		<Developer>http://www.cyanogenmod.org/</Developer>
+
+	<!--Official Website
+		<WebsiteURL>http://www.cyanogenmod.org/</WebsiteURL>
+	-->
+	<!-- Your Donate URL (Please use goo.gl to shorten to avoid CDATA requirement) -->
+		<DonateURL>https://goo.gl/D4VAVN</DonateURL>
+
+	<!--Put the changelog here... Use DaringFireball's Markdown to format it-->
+	<!--Surround special characters with the CDATA tags or your XML will NOT parse-->
+	<Changelog>
+	#Some text here?
+	</Changelog>
+
+	<!--Number of addons and the target addons xml. Remove both if no addons available! 
+		<AddonCount>2</AddonCount>
+		<AddonsURL>http://downloads.blissroms.com/Add-ons/addons.xml</AddonsURL>
+	-->
+
+</ROM>
