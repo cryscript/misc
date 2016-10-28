@@ -7,7 +7,7 @@
 		<VersionName>20161028</VersionName>
 	
 	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
-		<VersionNumber type="integer">20161028-0000</VersionNumber>
+		<VersionNumber type="integer">201610280000</VersionNumber>
 
 	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
 		<DirectUrl>https://qc3.androidfilehost.com/dl/HA8IMHlA6MNSJcT3k4o5eQ/1477905888/529152257862671358/cm-13.0-20161028-UNOFFICIAL-z2_plus.zip</DirectUrl>
@@ -24,10 +24,10 @@
 
 	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
 	<!--Please enter this in BYTES only. Otherwise an incorrect value will be shown-->
-		<FileSize type="integer">276917758</FileSize>
+		<FileSize type="integer">494823014</FileSize>
  
         <!--Maintainer Name/Last Uploader's Name-->
-		<Developer>http://www.cyanogenmod.org/</Developer>
+		<Developer>Fedor917</Developer>
 
 	<!--Official Website
 		<WebsiteURL>http://www.cyanogenmod.org/</WebsiteURL>
@@ -38,9 +38,12 @@
 	<!--Put the changelog here... Use DaringFireball's Markdown to format it-->
 	<!--Surround special characters with the CDATA tags or your XML will NOT parse-->
 	<Changelog>
-	https://github.com/cryscript/misc/blob/master/OTA/CM13/changelog.xml
-	or some text?
-	</Changelog>
+	### Changelog 20161028
+	* Stuff
+	* Updated this, or that
+	* Fixed all the things
+	* We even fixed this
+	* Don't forget all the awesome features you added</Changelog>
 
 	<!--Number of addons and the target addons xml. Remove both if no addons available! 
 		<AddonCount>2</AddonCount>
