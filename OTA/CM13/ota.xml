@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 	<!--ROM Name-->
-		<RomName>CM13_by_Fedor917</RomName>
+		<RomName>[CDATA[CM13_by_Fedor917]]</RomName>
 
 	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
 		<VersionName>2016102900</VersionName>
 	
 	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
-		<DirectUrl>https://tx1.androidfilehost.com/dl/oAUXLULYbCWh0Z--tjPocA/1477914584/385035244224388533/test.zip</DirectUrl>
+		<DirectUrl>[CDATA[https://tx1.androidfilehost.com/dl/oAUXLULYbCWh0Z--tjPocA/1477914584/385035244224388533/test.zip]]</DirectUrl>
 
 	<!--Do not edit this!-->
-		<HttpUrl>BlissRoms Server</HttpUrl>
+		<HttpUrl>[CDATA[https://www.androidfilehost.com/?fid=529152257862671358]]</HttpUrl>
 	
 	<!-- Android Version-->
 		<Android>6.0.1</Android>
@@ -27,10 +27,10 @@
 		<Developer>Fedor917</Developer>
 	<!--Put the changelog here... Use DaringFireball's Markdown to format it-->
 	<!--Surround special characters with the CDATA tags or your XML will NOT parse-->
-	<Changelog>
+	<Changelog>[CDATA[
 	### Changelog 2016081414
 
 	http://downloads.blissroms.com/Changelog/CHANGELOG-bliss.txt
-	</Changelog>
+	]]</Changelog>
 	
 </ROM>
