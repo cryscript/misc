@@ -15,7 +15,8 @@
 	<!--Do not edit this!
 		<HttpUrl>BlissRoms Server</HttpUrl>
 	-->
-	<!--BlissPop Android Version-->
+
+	<!--Android Version-->
 		<Android>6.0.1</Android>
 
 	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
@@ -32,13 +33,14 @@
 	<!--Official Website
 		<WebsiteURL>http://www.cyanogenmod.org/</WebsiteURL>
 	-->
+
 	<!-- Your Donate URL (Please use goo.gl to shorten to avoid CDATA requirement) -->
 		<DonateURL>https://goo.gl/D4VAVN</DonateURL>
 
 	<!--Put the changelog here... Use DaringFireball's Markdown to format it-->
 	<!--Surround special characters with the CDATA tags or your XML will NOT parse-->
 	<Changelog>
-	#Some text here?
+	###Changelog
 	</Changelog>
 
 	<!--Number of addons and the target addons xml. Remove both if no addons available! 
