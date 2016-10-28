@@ -41,6 +41,8 @@
 	<!--Surround special characters with the CDATA tags or your XML will NOT parse-->
 	<Changelog>
 	###Changelog
+
+	https://raw.githubusercontent.com/cryscript/misc/master/changelog.txt
 	</Changelog>
 
 	<!--Number of addons and the target addons xml. Remove both if no addons available! 
