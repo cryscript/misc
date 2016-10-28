@@ -37,13 +37,7 @@
 
 	<!--Put the changelog here... Use DaringFireball's Markdown to format it-->
 	<!--Surround special characters with the CDATA tags or your XML will NOT parse-->
-	<Changelog>
-	### Changelog 20161028
-	* Stuff
-	* Updated this, or that
-	* Fixed all the things
-	* We even fixed this
-	* Don't forget all the awesome features you added</Changelog>
+	<Changelog>https://github.com/cryscript/misc/blob/master/OTA/CM13/changelog.xml</Changelog>
 
 	<!--Number of addons and the target addons xml. Remove both if no addons available! 
 		<AddonCount>2</AddonCount>
