@@ -28,5 +28,7 @@
 
 	<!--Put the changelog here... Use DaringFireball's Markdown to format it-->
 	<!--Surround special characters with the CDATA tags or your XML will NOT parse-->
-	<Changelog>github.com/cryscript/misc/blob/master/OTA/CM13/changelog.xml</Changelog>
+	<Changelog>
+	###Test changes
+	</Changelog>
 </ROM>
