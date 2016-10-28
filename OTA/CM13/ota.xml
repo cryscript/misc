@@ -1,36 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
-	<!--ROM Name-->
-		<RomName>![CDATA[CM13_by_Fedor917]]</RomName>
+   <RomName>cm-13.0-peach</RomName>
+   <VersionName><![CDATA[cm-13.0-20161014-NIGHTLY-peach]]></VersionName>
+   <VersionNumber type="integer">20161014</VersionNumber>
+   <DirectUrl><![CDATA[http://lolmaxlik.cloudapp.net/compiled/CyanogenMod/cm-13.0-20161014-NIGHTLY-peach.zip]]></DirectUrl>
+   <HttpUrl><![CDATA[http://lolmaxlik.cloudapp.net/compiled/CyanogenMod/]]></HttpUrl>
+   <Android>6.0.1</Android>
+   <CheckMD5>07eee4869a66eba87281abc94d6e7102</CheckMD5>
+   <FileSize type="integer">343148130</FileSize>
+   <WebsiteURL><![CDATA[http://4pda.ru/forum/index.php?s=&showtopic=692103&view=findpost&p=52473703]]></WebsiteURL>
+   <Changelog><![CDATA[20160927:
 
-	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
-		<VersionName>2016102900</VersionName>
-	
-	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
-		<DirectUrl>![CDATA[https://tx1.androidfilehost.com/dl/oAUXLULYbCWh0Z--tjPocA/1477914584/385035244224388533/test.zip]]</DirectUrl>
+Все изменения CyanogenMod
 
-	<!--Do not edit this!-->
-		<HttpUrl>![CDATA[https://www.androidfilehost.com/?fid=529152257862671358]]</HttpUrl>
-	
-	<!-- Android Version-->
-		<Android>6.0.1</Android>
+Можно посмотреть на
 
-	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
-	<!-- You can disable MD5 checking like this: <CheckMD5 nil="true" />-->
-		<CheckMD5>aa3bb869b5a5c39915a0cf1791deb877</CheckMD5>
+https://www.cmxlog.com/13/
 
-	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
-	<!--Please enter this in BYTES only. Otherwise an incorrect value will be shown-->
-		<FileSize type="integer">10851566</FileSize>
- 
-        <!--Maintainer Name/Last Uploader's Name-->
-		<Developer>Fedor917</Developer>
-	<!--Put the changelog here... Use DaringFireball's Markdown to format it-->
-	<!--Surround special characters with the CDATA tags or your XML will NOT parse-->
-	<Changelog>![CDATA[
-	### Changelog 2016081414
+]]></Changelog>
 
-	http://downloads.blissroms.com/Changelog/CHANGELOG-bliss.txt
-	]]</Changelog>
-	
 </ROM>
