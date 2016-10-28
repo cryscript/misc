@@ -25,10 +25,4 @@
  
         <!--Maintainer Name/Last Uploader's Name-->
 		<Developer>Fedor917</Developer>
-
-	<!--Put the changelog here... Use DaringFireball's Markdown to format it-->
-	<!--Surround special characters with the CDATA tags or your XML will NOT parse-->
-	<Changelog>
-	###Test changes
-	</Changelog>
 </ROM>
