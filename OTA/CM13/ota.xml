@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
    <RomName>CM13</RomName>
-   <VersionName>201610200</VersionName>
+   <VersionName>2016102900</VersionName>
    <VersionNumber type="integer">2016102900</VersionNumber>
    <DirectUrl><![CDATA[http://lolmaxlik.cloudapp.net/compiled/CyanogenMod/cm-13.0-20161014-NIGHTLY-peach.zip]]></DirectUrl>
    <HttpUrl><![CDATA[http://lolmaxlik.cloudapp.net/compiled/CyanogenMod/]]></HttpUrl>
