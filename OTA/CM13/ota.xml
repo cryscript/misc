@@ -7,7 +7,7 @@
 		<VersionName>2016102900</VersionName>
 	
 	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
-		<DirectUrl>https://qc3.androidfilehost.com/dl/HA8IMHlA6MNSJcT3k4o5eQ/1477905888/529152257862671358/cm-13.0-20161028-UNOFFICIAL-z2_plus.zip</DirectUrl>
+		<DirectUrl>https://tx1.androidfilehost.com/dl/oAUXLULYbCWh0Z--tjPocA/1477914584/385035244224388533/test.zip</DirectUrl>
 
 	<!--Do not edit this!-->
 		<HttpUrl>BlissRoms Server</HttpUrl>
@@ -17,11 +17,11 @@
 
 	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
 	<!-- You can disable MD5 checking like this: <CheckMD5 nil="true" />-->
-		<CheckMD5>c9cbd4921d2ee1ee21d84e163cb3a300</CheckMD5>
+		<CheckMD5>aa3bb869b5a5c39915a0cf1791deb877</CheckMD5>
 
 	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
 	<!--Please enter this in BYTES only. Otherwise an incorrect value will be shown-->
-		<FileSize type="integer">494823014</FileSize>
+		<FileSize type="integer">10851566</FileSize>
  
         <!--Maintainer Name/Last Uploader's Name-->
 		<Developer>Fedor917</Developer>
