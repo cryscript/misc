@@ -1,8 +1,37 @@
-==========
-29.10.2016
-==========
+====================
+     10-29-2016
+====================
 
- *Added OTA
- *Small edits in device tree
- *Sync with latest rom sources
- *Snap Camera revert on c84f5b6 (with latest commit not working properly)
+   * Added OTA
+   * Small edits in device tree
+   * Sync with latest rom sources
+   * Snap Camera revert on c84f5b6 (with latest commit not working properly)
+
+   * packages/apps/CMFileManager/
+042e0a0 CMFileManager: Remove top & bottom padding in FS info dialog
+85bde2e CMFileManager: Modify disk usage graph's layout
+
+   * packages/services/Telecomm/
+e3f9c55 Revert "Honor option to allow vibration during priority zen mode."
+
+====================
+     10-28-2016
+====================
+
+
+   * packages/apps/CMFileManager/
+4dab55e CMFileManager: Show loading dialog while loading files
+a2fdbf9 Revert "CMFM: Fix landscape/rotation issues in file system info dialog"
+d686360 Show message to user when toggling word wrap mode
+5afe58b CMFileManager: Do not create multiple action dialogs
+59c9f19 CMFileManager: Refresh the disk usage graph when layout size change
+967dc87 Fix rename of files ending with . on sdcard
+
+====================
+     10-27-2016
+====================
+
+
+   * frameworks/opt/telephony/
+6ac0810 properly check empty string
+
