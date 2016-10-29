@@ -6,7 +6,7 @@
    * Small edits in device tree
    * Sync with latest rom sources
    * Snap Camera revert on c84f5b6 (with latest commit not working properly)
-   * Fixed Equaliser in settings
+   * Fixed FC Settings if you chose Equaliser
 
    * packages/apps/CMFileManager/
 042e0a0 CMFileManager: Remove top & bottom padding in FS info dialog
