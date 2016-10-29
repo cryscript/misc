@@ -8,6 +8,9 @@
    * Snap Camera revert on c84f5b6 (with latest commit not working properly)
    * Fixed FC Settings if you chose Equaliser
 
+   * packages/apps/Snap/
+f0fff30 Revert "Furtherly improve list menu handling."
+
    * packages/apps/CMFileManager/
 042e0a0 CMFileManager: Remove top & bottom padding in FS info dialog
 85bde2e CMFileManager: Modify disk usage graph's layout
