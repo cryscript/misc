@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 	<!--ROM Name-->
-		<RomName>CM13</RomName>
+		<RomName>Bliss-M</RomName>
 
 	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
-		<VersionName>CM13_2016102900</VersionName>
+		<VersionName>Bliss-M_2016102900</VersionName>
 	
 	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
 		<VersionNumber type="integer">2016102900</VersionNumber>
@@ -34,7 +34,7 @@
 	<Changelog>
 	###Changelog
 
-	https://raw.githubusercontent.com/cryscript/misc/master/changelog.txt
+	https://raw.githubusercontent.com/cryscript/misc/Bliss-M/changelog.txt
 	</Changelog>
 
 	<!--Number of addons and the target addons xml. Remove both if no addons available! 
