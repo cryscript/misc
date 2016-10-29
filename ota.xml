@@ -10,7 +10,7 @@
 		<VersionNumber type="integer">2016102900</VersionNumber>
 
 	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
-		<DirectUrl>http://qc4.androidfilehost.com/dl/8wQWHwvxy0hywGvocspOKg/1477965974/385035244224388937/ResurrectionRemix-M-v5.7.4-20161029-z2_plus.zip</DirectUrl>
+		<DirectUrl>http://qc4.androidfilehost.com/dl/jf0EbRFwjqYkams3IP_ALQ/1477987710/529152257862671964/ResurrectionRemix-M-v5.7.4-20161029-z2_plus.zip</DirectUrl>
 
 	<!--Do not edit this!
 		<HttpUrl>BlissRoms Server</HttpUrl>
@@ -21,11 +21,11 @@
 
 	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
 	<!-- You can disable MD5 checking like this: <CheckMD5 nil="true" />-->
-		<CheckMD5>5f747dcaa7668210ab243c586ee6e360</CheckMD5>
+		<CheckMD5>11ba053354fa02afb476374cd16a76d7</CheckMD5>
 
 	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
 	<!--Please enter this in BYTES only. Otherwise an incorrect value will be shown-->
-		<FileSize type="integer">500168878</FileSize>
+		<FileSize type="integer">500163580</FileSize>
  
         <!--Maintainer Name/Last Uploader's Name-->
 		<Developer>Fedor917</Developer>
