@@ -6,3 +6,4 @@
  *Small edits in device tree
  *Sync with latest rom sources 
  *Disabled blur on lockscreen
+ *Snap Camera revert on c84f5b6 (with latest commit not working properly)
