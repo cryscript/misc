@@ -1,8 +1,7 @@
 ==========
-29.10.2016
+03.11.2016
 ==========
 
  *Added OTA
  *Small edits in device tree
- *Sync with latest rom sources 
- *Snap Camera revert on c84f5b6 (with latest commit not working properly)
+ *Sync with latest rom sources

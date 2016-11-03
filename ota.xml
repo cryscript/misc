@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 	<!--ROM Name-->
-		<RomName>CM13</RomName>
+		<RomName>SM2</RomName>
 
 	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
-		<VersionName>2016102900</VersionName>
+		<VersionName>2016110300</VersionName>
 	
 	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
-		<VersionNumber type="integer">2016102900</VersionNumber>
+		<VersionNumber type="integer">2016110300</VersionNumber>
 
 	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
 		<DirectUrl>http://qc4.androidfilehost.com/dl/vhMIb8U5HnWSSKIbV7T0fA/1477965773/457095661767105875/cm-13.0-20161029-UNOFFICIAL-z2_plus.zip</DirectUrl>
@@ -34,7 +34,7 @@
 	<Changelog>
 	###Changelog
 
-	https://raw.githubusercontent.com/cryscript/misc/master/changelog.txt
+	https://raw.githubusercontent.com/cryscript/misc/SM2/changelog.txt
 	</Changelog>
 
 	<!--Number of addons and the target addons xml. Remove both if no addons available! 
