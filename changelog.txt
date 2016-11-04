@@ -1,4 +1,70 @@
 ====================
+     11-04-2016
+====================
+
+
+   * packages/services/Telecomm/
+717e13d Revert "Honor option to allow vibration during priority zen mode."
+
+====================
+     11-03-2016
+====================
+
+
+   * packages/apps/Snap/
+832a6b0 Fix off-by-one error in sub menu selection highlight.
+
+====================
+     11-02-2016
+====================
+
+
+   * cts/
+f8774bc merge in marshmallow-cts-release history after reset to marshmallow-cts-dev
+4bdac62 Merge "DO NOT MERGE: disable tests that fail on some devices (Hammerhead)" into marshmallow-cts-dev
+
+   * hardware/qcom/audio-caf/msm8937/
+689a72c hal: Haxed header
+
+   * packages/apps/CMFileManager/
+740efc6 FileManager: Editor: Fix race on completion wait/notify
+
+====================
+     11-01-2016
+====================
+
+
+   * cts/
+db17612 DO NOT MERGE: disable tests that fail on some devices (Hammerhead)
+
+   * hardware/qcom/audio-caf/msm8916/
+bc889dc Merge remote-tracking branch 'caf/LA.BR.1.2.6_rb1.18' into cm-13.0-caf-8916
+
+   * hardware/qcom/display-caf/msm8916/
+58585c9 Merge remote-tracking branch 'caf/LA.BR.1.2.6_rb1.18' into cm-13.0-caf-8916
+
+   * hardware/qcom/media-caf/msm8916/
+611f334 Merge remote-tracking branch 'caf/LA.BR.1.2.6_rb1.18' into cm-13.0-caf-8916
+
+   * packages/apps/Eleven/
+a2325be Fix MediaSession queue handling.
+
+====================
+     10-31-2016
+====================
+
+
+   * packages/apps/CMFileManager/
+52f0f09 CMFileManager: Save history records when quitting
+
+   * packages/apps/Snap/
+85e8e6d Fix off-by-one error in submenu selection handling.
+
+   * packages/services/Telecomm/
+01882f2 Adapt test to API changes.
+
+
+====================
      10-29-2016
 ====================
 
