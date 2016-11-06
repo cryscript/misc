@@ -1,4 +1,10 @@
 ==========
+06.11.2016
+==========
+* Update to latest sources.
+* Fix reset time after reboot (fix by davidevinavil (Davive D M))
+
+==========
 03.11.2016
 ==========
 *Nothing fixed/changed. Only update to latest sources.
