@@ -1,4 +1,29 @@
 ====================
+     11-06-2016
+====================
+
+
+   * Update to latest sources.
+   * Fix reset time after reboot (fix by davidevinavil (Davive D M))
+
+====================
+     11-05-2016
+====================
+
+
+   * packages/apps/AudioFX/
+f4fe364 Merge "AudioFX: Fix possible NPE" into cm-13.0
+26d0126 Merge "AudioFX: Fix possible RuntimeException" into cm-13.0
+b1c9efb AudioFX: Fix possible NPE
+
+   * packages/apps/CMFileManager/
+1aea5a8 Properly upgrade DB.
+
+   * packages/apps/Snap/
+537e522 Snap: Fix possible NPE
+beec60c Snap: Fix possible RuntimeException (due to NPE)
+
+====================
      11-04-2016
 ====================
 
