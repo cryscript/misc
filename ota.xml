@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 	<!--ROM Name-->
-		<RomName>SlimM</RomName>
+		<RomName>PacM</RomName>
 
 	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
-		<VersionName>2016110700</VersionName>
+		<VersionName>2016110800</VersionName>
 	
 	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
-		<VersionNumber type="integer">2016110700</VersionNumber>
+		<VersionNumber type="integer">2016110800</VersionNumber>
 
 	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
 		<DirectUrl>http://qc4.androidfilehost.com/dl/EFklaUbfU018vPrRLcl95g/1478735760/457095661767112279/Slim-z2_plus-6.0.1.build.1.10-UNOFFICIAL-20161107-1338.zip</DirectUrl>
@@ -17,11 +17,11 @@
 
 	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
 	<!-- You can disable MD5 checking like this: <CheckMD5 nil="true" />-->
-		<CheckMD5>ad744628c54a7e49e15d4cdb47a18f69</CheckMD5>
+		<CheckMD5>fc2348e92ba0891320d339e002639118</CheckMD5>
 
 	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
 	<!--Please enter this in BYTES only. Otherwise an incorrect value will be shown-->
-		<FileSize type="integer">378503079</FileSize>
+		<FileSize type="integer">492020062</FileSize>
  
         <!--Maintainer Name/Last Uploader's Name-->
 		<Developer>Fedor917</Developer>
