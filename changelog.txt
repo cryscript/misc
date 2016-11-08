@@ -6,4 +6,3 @@ Slim Changelog             PAC Changelog
  *Added OTA                 *Added OTA
  *First build               *First build
                             *Too lazy for build new updater for PAC (using from slim :) )
-                            *Fixed brightness for notifications (now you can control brightness for notifications)
