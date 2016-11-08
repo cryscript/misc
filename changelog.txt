@@ -1,6 +1,9 @@
-==========
-07.11.2016
-==========
+Slim Changelog             PAC Changelog
+==========                 ==========
+07.11.2016                 08.11.2016
+==========                 ==========
 
- *Added OTA
- *First build
+ *Added OTA                 *Added OTA
+ *First build               *First build
+                            *Too lazy for build new updater for PAC (using from slim :) )
+                            *Fixed brightness for notifications (now you can control brightness for notifications)
