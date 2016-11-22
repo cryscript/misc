@@ -1,4 +1,13 @@
 ==========
+22.11.2016
+==========
+* Update GPS.
+* Update LiveDisplay.
+* Kernel from CallMeSuper
+* Small edits in device tree
+* Latest RR sources
+
+==========
 06.11.2016
 ==========
 * Update to latest sources.
