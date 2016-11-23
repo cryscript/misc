@@ -1,4 +1,12 @@
 Slim Changelog             PAC Changelog
+==========
+22.11.2016
+==========
+* Update GPS.
+* Kernel from CallMeSuper
+* Small edits in device tree
+* Latest Slim sources
+
 ==========                 ==========
 07.11.2016                 08.11.2016
 ==========                 ==========
