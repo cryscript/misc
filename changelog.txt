@@ -1,4 +1,12 @@
-Slim Changelog             PAC Changelog
+Slim Changelog                          PAC Changelog
+==========                              ==========
+22.12.2016                              22.12.2016
+==========                              ==========
+
+ *Latest Slim sources                    *Latest PAC sources
+ *Fixed yellow screen bug                *Fixed yellow screen bug
+ *Optimized kernel size                  *Optimized kernel size
+
 ==========
 22.11.2016
 ==========
@@ -7,10 +15,10 @@ Slim Changelog             PAC Changelog
 * Small edits in device tree
 * Latest Slim sources
 
-==========                 ==========
-07.11.2016                 08.11.2016
-==========                 ==========
+==========                              ==========
+07.11.2016                              08.11.2016
+==========                              ==========
 
- *Added OTA                 *Added OTA
- *First build               *First build
-                            *Too lazy for build new updater for PAC (using from slim :) )
+ *Added OTA                              *Added OTA
+ *First build                            *First build
+                                         *Too lazy for build new updater for PAC (using from slim :) )
