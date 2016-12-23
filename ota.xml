@@ -4,24 +4,24 @@
 		<RomName>SM2</RomName>
 
 	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
-		<VersionName>2016110400</VersionName>
+		<VersionName>2016122200</VersionName>
 	
 	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
-		<VersionNumber type="integer">2016110400</VersionNumber>
+		<VersionNumber type="integer">2016122200</VersionNumber>
 
 	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
-		<DirectUrl>https://de1.androidfilehost.com/dl/1oLUOOpxQSfbFQmXR5qsHQ/1478439425/529152257862677323/SM60.1-z2_plus-201611040120-UNOFFICIAL.zip</DirectUrl>
+		<DirectUrl>https://de1.androidfilehost.com/dl/6C7p0kF5cyWHBJvzNK4W-g/1482710294/529152257862690073/SM60.1-z2_plus-201612230356-UNOFFICIAL.zip</DirectUrl>
 
 	<!--Android Version-->
 		<Android>6.0.1</Android>
 
 	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
 	<!-- You can disable MD5 checking like this: <CheckMD5 nil="true" />-->
-		<CheckMD5>af181fd36bbf6a3576a358fb9f9cb34c</CheckMD5>
+		<CheckMD5>e6f7b522477782b4a3b9c97e0354c009</CheckMD5>
 
 	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
 	<!--Please enter this in BYTES only. Otherwise an incorrect value will be shown-->
-		<FileSize type="integer">455352040</FileSize>
+		<FileSize type="integer">448914914</FileSize>
  
         <!--Maintainer Name/Last Uploader's Name-->
 		<Developer>Fedor917</Developer>
