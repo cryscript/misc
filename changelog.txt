@@ -1,4 +1,11 @@
 ==========
+22.12.2016
+==========
+* Fixed yellow screen bug (problem was in kernel)
+* Optimized kernel size ~9Mb, boot.img size ~10Mb
+* Latest SM sources
+
+==========
 03.11.2016
 ==========
 
