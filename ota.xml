@@ -4,24 +4,24 @@
 		<RomName>CM13</RomName>
 
 	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
-		<VersionName>2016112200</VersionName>
+		<VersionName>2016122200</VersionName>
 	
 	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
-		<VersionNumber type="integer">2016112200</VersionNumber>
+		<VersionNumber type="integer">2016122200</VersionNumber>
 
 	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
-		<DirectUrl>https://qc3.androidfilehost.com/dl/Gk7Mx0cLPgXO_uX54dp6kg/1480070098/385035244224400659/cm-13.0-20161122-UNOFFICIAL-z2_plus.zip</DirectUrl>
+		<DirectUrl>https://de1.androidfilehost.com/dl/UTWED1xGHwzsgQOtsrXqSw/1482709611/385035244224407153/cm-13.0-20161222-UNOFFICIAL-z2_plus.zip</DirectUrl>
 
 	<!--Android Version-->
 		<Android>6.0.1</Android>
 
 	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
 	<!-- You can disable MD5 checking like this: <CheckMD5 nil="true" />-->
-		<CheckMD5>c5070ffe9f53445b30a1770e971d16a8</CheckMD5>
+		<CheckMD5>36aa23e5542a608dde0fa3a7c5bb7984</CheckMD5>
 
 	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
 	<!--Please enter this in BYTES only. Otherwise an incorrect value will be shown-->
-		<FileSize type="integer">493520279</FileSize>
+		<FileSize type="integer">487282700</FileSize>
  
         <!--Maintainer Name/Last Uploader's Name-->
 		<Developer>Fedor917</Developer>
