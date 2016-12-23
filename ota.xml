@@ -4,24 +4,24 @@
 		<RomName>SlimM</RomName>
 
 	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
-		<VersionName>2016112300</VersionName>
+		<VersionName>2016122200</VersionName>
 	
 	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
-		<VersionNumber type="integer">2016112300</VersionNumber>
+		<VersionNumber type="integer">2016122200</VersionNumber>
 
 	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
-		<DirectUrl>https://va1.androidfilehost.com/dl/ZNPTdDKEI1YI_nkVIjMwHw/1480143770/385035244224400760/Slim-z2_plus-6.0.1.build.1.12-UNOFFICIAL-20161123-1757.zip</DirectUrl>
+		<DirectUrl>https://de1.androidfilehost.com/dl/5zILjRtEQtDjWrFicRjofw/1482710148/457095661767124452/Slim-z2_plus-6.0.1.build.1.16-UNOFFICIAL-20161223-1349.zip</DirectUrl>
 
 	<!--Android Version-->
 		<Android>6.0.1</Android>
 
 	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
 	<!-- You can disable MD5 checking like this: <CheckMD5 nil="true" />-->
-		<CheckMD5>32d21311681d7ee62cf0725826c06198</CheckMD5>
+		<CheckMD5>7d26b239ab776a7b428529f77f054522</CheckMD5>
 
 	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
 	<!--Please enter this in BYTES only. Otherwise an incorrect value will be shown-->
-		<FileSize type="integer">386419636</FileSize>
+		<FileSize type="integer">380184358</FileSize>
  
         <!--Maintainer Name/Last Uploader's Name-->
 		<Developer>Fedor917</Developer>
