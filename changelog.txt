@@ -1,4 +1,14 @@
 ====================
+     12-22-2016
+====================
+
+
+   * Latest Bliss sources.
+   * Fixed yellow screen bug (problem was in kernel)
+   * Optimized kernel size ~9Mb, boot.img size ~10Mb
+
+
+====================
      11-06-2016
 ====================
 
