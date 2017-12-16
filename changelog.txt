@@ -1,35 +1,4 @@
 ==========
-22.12.2016
-==========
-* Fixed yellow screen bug (problem was in kernel)
-* Optimized kernel size ~9Mb, boot.img size ~10Mb
-* Latest CM13 sources
-
-==========
-22.11.2016
-==========
-* Update GPS.
-* Update LiveDisplay.
-* Kernel from CallMeSuper
-* Small edits in device tree
-* Latest CM13 sources
-
-==========
-06.11.2016
-==========
-* Update to latest sources.
-* Fix reset time after reboot (fix by davidevinavil (Davive D M))
-
-==========
-03.11.2016
-==========
-*Nothing fixed/changed. Only update to latest sources.
-
-==========
-29.10.2016
+15.12.2017
 ==========
 
- *Added OTA
- *Small edits in device tree
- *Sync with latest rom sources 
- *Snap Camera revert on c84f5b6 (with latest commit not working properly)

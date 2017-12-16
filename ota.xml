@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 	<!--ROM Name-->
-		<RomName>CM13</RomName>
+		<RomName>AEX 4.6</RomName>
 
 	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
-		<VersionName>2016122200</VersionName>
+		<VersionName>2017121500</VersionName>
 	
 	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
-		<VersionNumber type="integer">2016122200</VersionNumber>
+		<VersionNumber type="integer">2017121500</VersionNumber>
 
 	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
 		<DirectUrl>https://de1.androidfilehost.com/dl/UTWED1xGHwzsgQOtsrXqSw/1482709611/385035244224407153/cm-13.0-20161222-UNOFFICIAL-z2_plus.zip</DirectUrl>
 
 	<!--Android Version-->
-		<Android>6.0.1</Android>
+		<Android>7.1.2</Android>
 
 	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
 	<!-- You can disable MD5 checking like this: <CheckMD5 nil="true" />-->
@@ -34,7 +34,7 @@
 	<Changelog>
 	###Changelog
 
-	https://raw.githubusercontent.com/cryscript/misc/master/changelog.txt
+	https://raw.githubusercontent.com/cryscript/misc/n_sm/changelog.txt
 	</Changelog>
 
 	<!--Number of addons and the target addons xml. Remove both if no addons available! 
